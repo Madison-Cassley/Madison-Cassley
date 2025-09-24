@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="mailto:mcassley16@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/madison-cassley-907733324/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/madison-cassley-907733324/">LinkedIn</a>
 </p>
 
 ---
@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/xUnit-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 </p>
 
 ## 📌 Featured projects
@@ -57,9 +56,6 @@ Pinned to my profile 😄
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Madison-Cassley&show_icons=true&hide_rank=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madison-Cassley&layout=compact&langs_count=8" height="150" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Madison-Cassley" height="150" />
 </p>
 
 <p align="center">
