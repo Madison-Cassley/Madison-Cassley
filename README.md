@@ -52,12 +52,6 @@ Pinned to my profile 😄
 - 🔗 LinkedIn: https://www.linkedin.com/in/madison-cassley-907733324/
 ---
 
-## 📊 GitHub stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madison-Cassley&show_icons=true&hide_rank=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madison-Cassley&layout=compact&langs_count=8" height="150" />
-</p>
-
 <p align="center">
   <sub>⭐️ If you like something here, consider starring a repo — it helps others find it!</sub>
 </p>
