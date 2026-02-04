@@ -12,9 +12,10 @@
 
 ## 🔎 About me
 - 🎓 CS student @ John Abbott College (Expected graduation: 2026)
-- 💡 Interested in Cybersecurity, NetWorking and Ethical Aritificial Intelligence
+- 💡 Interested in Cybersecurity and Ethical Aritificial Intelligence
 - 🌱 Currently learning: **ASP.NET Core**, **EF Core**, **Azure**, **Docker**, **Security Practices**
 - 🤝 Open to: Internships
+- ⭐️ Other intrests: Painting, Art/Crafting and Gaming
 
 ## 🛠️ Tech stack
 <p>
@@ -50,9 +51,5 @@ Pinned to my profile 😄
 ## 📫 Contact
 - 📮 Email: mcassley16@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/madison-cassley-907733324/
----
-
-<p align="center">
-  <sub>⭐️ If you like something here, consider starring a repo — it helps others find it!</sub>
-</p>
+- 💻 Github Portfolio: https://madison-cassley.github.io/
 
