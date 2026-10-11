@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Maddie</h1>
 <p align="center">
-  Computer Science student
+  Cybersecurity Student
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 ---
 
 ## 🔎 About me
-- 🎓 CS student @ John Abbott College (Expected graduation: 2026)
+- 🎓 Cybersecurity student @ Concordia University
 - 💡 Interested in Cybersecurity and Ethical Aritificial Intelligence
 - 🌱 Currently learning: **ASP.NET Core**, **EF Core**, **Azure**, **Docker**, **Security Practices**
 - 🤝 Open to: Internships
